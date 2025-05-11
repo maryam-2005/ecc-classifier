@@ -4,7 +4,7 @@
 
 - Accuracy: 82.4%
 - Confusion Matrix:  
-  ![DT Confusion](images:/confusion_matrix_dt.png)
+  ![DT Confusion](images/confusion_matrix_dt.png)
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Accuracy: 87.1%
 - Confusion Matrix:  
-  ![RF Confusion](images:/confusion_matrix_rf.png)
+  ![RF Confusion](images/confusion_matrix_rf.png)
 
 ---
 
@@ -20,7 +20,7 @@
 
 - Accuracy: 85.6%
 - Confusion Matrix:  
-  ![Ada Confusion](images:/adaboost_confusion_matrix.png)
+  ![Ada Confusion](images/adaboost_confusion_matrix.png)
 
 ---
 
@@ -28,12 +28,12 @@
 
 - Accuracy: 91.87%
 - Confusion Matrix:  
-  ![XGB Confusion](images:/xgboost_confusion_matrix.png)
+  ![XGB Confusion](images/xgboost_confusion_matrix.png)
 
 ---
 
-### 📉 SVM (with GridSearch)
+### 📉 SVM (rbf kernel with GridSearch)
 
 - Accuracy: 88.9%
 - Confusion Matrix:  
-  ![SVM Confusion](images:/svm_confusion_rbf.png)
+  ![SVM Confusion](images/svm_confusion_rbf.png)
