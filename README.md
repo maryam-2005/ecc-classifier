@@ -4,9 +4,7 @@ This project focuses on classifying error-correcting codes (ECC) using supervise
 
 ---
 
-## 📊 Features
-
-## 📊 Features
+## Features
 
 - **Dataset Generation**: The dataset is synthetically generated using a custom script, which simulates different types of error-correcting codes.
 - **Exploratory Data Analysis (EDA)**: Performed using Seaborn and Matplotlib to understand the dataset.
@@ -23,7 +21,7 @@ This project focuses on classifying error-correcting codes (ECC) using supervise
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -36,7 +34,7 @@ This project focuses on classifying error-correcting codes (ECC) using supervise
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository:**
 
@@ -59,14 +57,14 @@ This project focuses on classifying error-correcting codes (ECC) using supervise
 
 ---
 
-## ✅ Results
+## Results
 
 - Achieved a highest accuracy of **91.87%** using the **XGBoost Classifier**
 - Performance evaluated using confusion matrix and classification report
 
 ---
 
-## 🔍 Models Compared
+## Models Compared
 
 - Decision Tree
 - Random Forest
@@ -78,7 +76,7 @@ For complete metrics and plots, check the [Model Results & Visuals](model_output
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
     ecc-classifier/
     ├── DatasetGenerate.ipynb
@@ -93,14 +91,14 @@ For complete metrics and plots, check the [Model Results & Visuals](model_output
     └── data/ (optional synthetic dataset location)
 ---
 
-## 📜 License
+## License
 
 This project is not currently licensed.  
 Please contact the author for permission before using or redistributing the code.
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 Maryam Ameen 
 AI/ML Project – ECC Classification
